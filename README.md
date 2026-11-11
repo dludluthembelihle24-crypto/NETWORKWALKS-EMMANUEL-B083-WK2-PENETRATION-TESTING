@@ -18,7 +18,7 @@ Networkwalks Cybersecurity Internship - Week2 Project Module
 | Role             | Cybersecurity Intern                                        |
 | Organization     | Networkwalks                                                |
 | Program          | Cybersecurity Internship                                    |
-| Batch            | B083                                                        |
+| Batch            | B084                                                        |
 | Week             | 2                                                           |
 | Date             | 11 November 2026                                            |
 | Project          | Reconnaissance-Footprinting and Network Scanning            |
