@@ -1,0 +1,30 @@
+Starting Nmap 7.993 ( https://nmap.org ) at 2026-11-11 01:43 +0200
+Nmap scan report for 10.243.207.105
+Host is up (0.0064s latency).
+All 100 scanned ports on 10.243.207.105 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+MAC Address: 0A:84:A3:CE:8E:DC (Unknown)
+
+Nmap scan report for 10.243.207.150
+Host is up (0.015s latency).
+Not shown: 98 closed tcp ports (reset)
+PORT     STATE SERVICE
+53/tcp   open  domain
+8888/tcp open  sun-answerbook
+MAC Address: A6:D4:08:30:12:D1 (Unknown)
+
+Nmap scan report for 10.243.207.202
+Host is up (0.022s latency).
+All 100 scanned ports on 10.243.207.202 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+MAC Address: F2:23:1F:51:C4:81 (Unknown)
+
+Nmap scan report for 10.243.207.49
+Host is up (0.00040s latency).
+Not shown: 97 closed tcp ports (reset)
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap done: 256 IP addresses (4 hosts up) scanned in 9.74 seconds
